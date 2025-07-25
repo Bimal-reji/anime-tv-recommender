@@ -22,7 +22,7 @@ A genre-based recommender system that suggests random anime or TV shows based on
 
 ## 🌐 Live Demo
 
-_(Add a link after deploying)_
+http://127.0.0.1:5000/
 
 ## 📦 Setup Instructions
 
